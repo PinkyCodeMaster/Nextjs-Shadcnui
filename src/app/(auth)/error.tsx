@@ -13,7 +13,6 @@ export default function AuthErrorPage() {
                     Acme Inc.
                 </a>
             </div>
-
             <div className="flex flex-1 items-center justify-center">
                 <div className="flex w-full max-w-xs flex-col items-center text-center gap-6">
                     <AlertTriangle className="size-8 text-destructive" />

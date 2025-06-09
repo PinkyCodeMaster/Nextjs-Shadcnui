@@ -1,4 +1,4 @@
-import { ForgotPasswordForm } from "@/components/auth/forgotton-password";
+import { ResetPasswordForm } from "@/components/auth/reset-password";
 import { GalleryVerticalEnd } from "lucide-react";
 
 export default function ResetPasswordPage() {
@@ -14,7 +14,7 @@ export default function ResetPasswordPage() {
             </div>
             <div className="flex flex-1 items-center justify-center">
                 <div className="w-full max-w-xs">
-                    <ForgotPasswordForm />
+                    <ResetPasswordForm />
                 </div>
             </div>
         </div>
